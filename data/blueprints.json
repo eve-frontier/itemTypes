@@ -1,0 +1,1618 @@
+{
+  "dumped": "2025-06-15 0100 ETA",
+  "data": [
+    {
+      "id": 88288,
+      "name": "Common Ore Blueprint",
+      "productTypeID": 77804,
+      "productQuantity": 2,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88289,
+      "name": "Common Ore Blueprint",
+      "productTypeID": 77804,
+      "productQuantity": 2,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88290,
+      "name": "Common Ore Blueprint",
+      "productTypeID": 77804,
+      "productQuantity": 2,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88291,
+      "name": "Metal-rich Ore Blueprint",
+      "productTypeID": 77803,
+      "productQuantity": 29,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88292,
+      "name": "Metal-rich Ore Blueprint",
+      "productTypeID": 77805,
+      "productQuantity": 2,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88293,
+      "name": "Metal-rich Ore Blueprint",
+      "productTypeID": 77805,
+      "productQuantity": 2,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88294,
+      "name": "Carbonaceous Ore Blueprint",
+      "productTypeID": 77804,
+      "productQuantity": 16,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88295,
+      "name": "Carbonaceous Ore Blueprint",
+      "productTypeID": 88234,
+      "productQuantity": 8,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88296,
+      "name": "Carbonaceous Ore Blueprint",
+      "productTypeID": 88235,
+      "productQuantity": 7,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88297,
+      "name": "Deep-Core Metallic Ore Blueprint",
+      "productTypeID": 77805,
+      "productQuantity": 3,
+      "manufacturingTime": 9,
+      "materials": null
+    },
+    {
+      "id": 88298,
+      "name": "Deep-Core Carbon Ore Blueprint",
+      "productTypeID": 88234,
+      "productQuantity": 8,
+      "manufacturingTime": 13,
+      "materials": null
+    },
+    {
+      "id": 88345,
+      "name": "Old Crude Matter Blueprint",
+      "productTypeID": 83839,
+      "productQuantity": 16,
+      "manufacturingTime": 50,
+      "materials": null
+    },
+    {
+      "id": 88346,
+      "name": "Young Crude Matter Blueprint",
+      "productTypeID": 83839,
+      "productQuantity": 1,
+      "manufacturingTime": 50,
+      "materials": null
+    },
+    {
+      "id": 88574,
+      "name": "Printed Circuits Blueprint",
+      "productTypeID": 84180,
+      "productQuantity": 1,
+      "manufacturingTime": 38,
+      "materials": null
+    },
+    {
+      "id": 88592,
+      "name": "Reinforced Alloys Blueprint",
+      "productTypeID": 84182,
+      "productQuantity": 14,
+      "manufacturingTime": 19,
+      "materials": null
+    },
+    {
+      "id": 88609,
+      "name": "Reinforced Alloys Blueprint",
+      "productTypeID": 84182,
+      "productQuantity": 14,
+      "manufacturingTime": 16,
+      "materials": null
+    },
+    {
+      "id": 88610,
+      "name": "Carbon Weave Blueprint",
+      "productTypeID": 84210,
+      "productQuantity": 14,
+      "manufacturingTime": 17,
+      "materials": null
+    },
+    {
+      "id": 88611,
+      "name": "Thermal Composites Blueprint",
+      "productTypeID": 88561,
+      "productQuantity": 14,
+      "manufacturingTime": 20,
+      "materials": null
+    },
+    {
+      "id": 88612,
+      "name": "Thermal Composites Blueprint",
+      "productTypeID": 88561,
+      "productQuantity": 14,
+      "manufacturingTime": 16,
+      "materials": null
+    },
+    {
+      "id": 88630,
+      "name": "UNI SAC-250 Blueprint",
+      "productTypeID": 87905,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88631,
+      "name": "MINING SAC-400 Blueprint",
+      "productTypeID": 87906,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88688,
+      "name": "COMBAT SAC-150 Blueprint",
+      "productTypeID": 87907,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88689,
+      "name": "Turbine K-5 Blueprint",
+      "productTypeID": 87908,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88690,
+      "name": "Armor Patcher SKI-8 Blueprint",
+      "productTypeID": 87909,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88691,
+      "name": "RUNNER SAC-120 Blueprint",
+      "productTypeID": 87961,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88692,
+      "name": "ENDURER SAC-240 Blueprint",
+      "productTypeID": 87962,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88693,
+      "name": "GATHERER SAC-240 Blueprint",
+      "productTypeID": 87963,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88694,
+      "name": "HUNTER SAC-100 Blueprint",
+      "productTypeID": 87964,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88695,
+      "name": "Emergency Shield CT6 Blueprint",
+      "productTypeID": 88324,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88696,
+      "name": "Turbine K-8 Blueprint",
+      "productTypeID": 88336,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88697,
+      "name": "Armor Patcher SKI-33 Blueprint",
+      "productTypeID": 88337,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88698,
+      "name": "Micro Jump Drive 30x Blueprint",
+      "productTypeID": 88338,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88699,
+      "name": "Emergency Cutting Laser Blueprint",
+      "productTypeID": 88320,
+      "productQuantity": 1,
+      "manufacturingTime": 49,
+      "materials": null
+    },
+    {
+      "id": 88700,
+      "name": "Enhanced Cutting Laser Blueprint",
+      "productTypeID": 88343,
+      "productQuantity": 1,
+      "manufacturingTime": 51,
+      "materials": null
+    },
+    {
+      "id": 88701,
+      "name": "Feral Cutting Laser Blueprint",
+      "productTypeID": 88344,
+      "productQuantity": 1,
+      "manufacturingTime": 49,
+      "materials": null
+    },
+    {
+      "id": 88702,
+      "name": "Mini MAT GJ-K Blueprint",
+      "productTypeID": 87927,
+      "productQuantity": 1,
+      "manufacturingTime": 41,
+      "materials": null
+    },
+    {
+      "id": 88703,
+      "name": "Mini Bolter 40-MAX Blueprint",
+      "productTypeID": 87940,
+      "productQuantity": 1,
+      "manufacturingTime": 41,
+      "materials": null
+    },
+    {
+      "id": 88704,
+      "name": "GJ Bolter 40-MAX Blueprint",
+      "productTypeID": 88339,
+      "productQuantity": 1,
+      "manufacturingTime": 41,
+      "materials": null
+    },
+    {
+      "id": 88705,
+      "name": "Ancient MAT GJ-A Blueprint",
+      "productTypeID": 88340,
+      "productQuantity": 1,
+      "manufacturingTime": 41,
+      "materials": null
+    },
+    {
+      "id": 88706,
+      "name": "Threader 6-ix Blueprint",
+      "productTypeID": 88425,
+      "productQuantity": 1,
+      "manufacturingTime": 53,
+      "materials": null
+    },
+    {
+      "id": 88707,
+      "name": "GJ-24n Standard Blueprint",
+      "productTypeID": 88707,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88735,
+      "name": "Emergency Cutting Lens Blueprint",
+      "productTypeID": 88321,
+      "productQuantity": 1,
+      "manufacturingTime": 8,
+      "materials": null
+    },
+    {
+      "id": 88736,
+      "name": "KEEP Emergency Engine Blueprint",
+      "productTypeID": 87945,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88737,
+      "name": "KEEP Adaptive Engine Blueprint",
+      "productTypeID": 88332,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88738,
+      "name": "KEEP Voyage Engine Blueprint",
+      "productTypeID": 88333,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88739,
+      "name": "KEEP Fast-Travel Engine Blueprint",
+      "productTypeID": 88334,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88755,
+      "name": "Mining Gel 340 Blueprint",
+      "productTypeID": 88426,
+      "productQuantity": 1,
+      "manufacturingTime": 8,
+      "materials": null
+    },
+    {
+      "id": 88756,
+      "name": "Placeholder 3 Blueprint",
+      "productTypeID": 87927,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88758,
+      "name": "Forager Blueprint",
+      "productTypeID": 85156,
+      "productQuantity": 1,
+      "manufacturingTime": 80,
+      "materials": null
+    },
+    {
+      "id": 88759,
+      "name": "Wend Blueprint",
+      "productTypeID": 87698,
+      "productQuantity": 1,
+      "manufacturingTime": 60,
+      "materials": null
+    },
+    {
+      "id": 88760,
+      "name": "Reiver Blueprint",
+      "productTypeID": 87848,
+      "productQuantity": 1,
+      "manufacturingTime": 150,
+      "materials": null
+    },
+    {
+      "id": 88761,
+      "name": "Reflex Blueprint",
+      "productTypeID": 87847,
+      "productQuantity": 1,
+      "manufacturingTime": 60,
+      "materials": null
+    },
+    {
+      "id": 88762,
+      "name": "Recurve Blueprint",
+      "productTypeID": 87846,
+      "productQuantity": 1,
+      "manufacturingTime": 130,
+      "materials": null
+    },
+    {
+      "id": 88770,
+      "name": "Salvaged Materials Blueprint",
+      "productTypeID": 84182,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88771,
+      "name": "Salvaged Materials Blueprint",
+      "productTypeID": 84210,
+      "productQuantity": 1,
+      "manufacturingTime": 17,
+      "materials": null
+    },
+    {
+      "id": 88778,
+      "name": "Mummified Clone Blueprint",
+      "productTypeID": 77804,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88779,
+      "name": "Mummified Clone Blueprint",
+      "productTypeID": 88782,
+      "productQuantity": 1,
+      "manufacturingTime": 11,
+      "materials": null
+    },
+    {
+      "id": 88828,
+      "name": "PARADIGM-37 FUEL Blueprint",
+      "productTypeID": 87946,
+      "productQuantity": 500,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88829,
+      "name": "PRIME-67 FUEL Blueprint",
+      "productTypeID": 87955,
+      "productQuantity": 500,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88830,
+      "name": "SUBLIME-99 FUEL Blueprint",
+      "productTypeID": 87956,
+      "productQuantity": 500,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88831,
+      "name": "PARADIGM-22 FUEL Blueprint",
+      "productTypeID": 87957,
+      "productQuantity": 500,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88832,
+      "name": "SOLUTION-1 Blueprint",
+      "productTypeID": 87958,
+      "productQuantity": 500,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88833,
+      "name": "SOLUTION-2 Blueprint",
+      "productTypeID": 87959,
+      "productQuantity": 500,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88834,
+      "name": "SOLUTION-3 Blueprint",
+      "productTypeID": 87960,
+      "productQuantity": 500,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88835,
+      "name": "D2 Fuel Blueprint",
+      "productTypeID": 88319,
+      "productQuantity": 200,
+      "manufacturingTime": 18,
+      "materials": null
+    },
+    {
+      "id": 88836,
+      "name": "Water Ice Blueprint",
+      "productTypeID": 88335,
+      "productQuantity": 150,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88866,
+      "name": "Batched Thermal Composites Blueprint",
+      "productTypeID": 88843,
+      "productQuantity": 1,
+      "manufacturingTime": 97,
+      "materials": null
+    },
+    {
+      "id": 88867,
+      "name": "Packaged Thermal Composites Blueprint",
+      "productTypeID": 88844,
+      "productQuantity": 1,
+      "manufacturingTime": 242,
+      "materials": null
+    },
+    {
+      "id": 88868,
+      "name": "Echo Chamber Blueprint",
+      "productTypeID": 88780,
+      "productQuantity": 1,
+      "manufacturingTime": 1107,
+      "materials": null
+    },
+    {
+      "id": 88869,
+      "name": "Batched Printed Circuits Blueprint",
+      "productTypeID": 88839,
+      "productQuantity": 1,
+      "manufacturingTime": 78,
+      "materials": null
+    },
+    {
+      "id": 88870,
+      "name": "Packaged Printed Circuits Blueprint",
+      "productTypeID": 88840,
+      "productQuantity": 1,
+      "manufacturingTime": 223,
+      "materials": null
+    },
+    {
+      "id": 88871,
+      "name": "Batched Carbon Weave Blueprint",
+      "productTypeID": 88841,
+      "productQuantity": 1,
+      "manufacturingTime": 106,
+      "materials": null
+    },
+    {
+      "id": 88872,
+      "name": "Packaged Carbon Weave Blueprint",
+      "productTypeID": 88842,
+      "productQuantity": 1,
+      "manufacturingTime": 194,
+      "materials": null
+    },
+    {
+      "id": 88873,
+      "name": "Batched Reinforced Alloys Blueprint",
+      "productTypeID": 84204,
+      "productQuantity": 1,
+      "manufacturingTime": 97,
+      "materials": null
+    },
+    {
+      "id": 88874,
+      "name": "Packaged Reinforced Alloys Blueprint",
+      "productTypeID": 84206,
+      "productQuantity": 1,
+      "manufacturingTime": 242,
+      "materials": null
+    },
+    {
+      "id": 88875,
+      "name": "Still Knot Blueprint",
+      "productTypeID": 88565,
+      "productQuantity": 1,
+      "manufacturingTime": 1,
+      "materials": null
+    },
+    {
+      "id": 88876,
+      "name": "Siege Protocol Frame Blueprint",
+      "productTypeID": 78415,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88877,
+      "name": "Apocalypse Protocol Frame Blueprint",
+      "productTypeID": 78416,
+      "productQuantity": 1,
+      "manufacturingTime": 273,
+      "materials": null
+    },
+    {
+      "id": 88878,
+      "name": "Bastion Program Frame Blueprint",
+      "productTypeID": 78417,
+      "productQuantity": 1,
+      "manufacturingTime": 226,
+      "materials": null
+    },
+    {
+      "id": 88879,
+      "name": "Nomad Program Frame Blueprint",
+      "productTypeID": 78418,
+      "productQuantity": 1,
+      "manufacturingTime": 83,
+      "materials": null
+    },
+    {
+      "id": 88880,
+      "name": "Shadow Protocol Frame Blueprint",
+      "productTypeID": 78419,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88881,
+      "name": "88881",
+      "productTypeID": 78420,
+      "productQuantity": 1,
+      "manufacturingTime": 226,
+      "materials": null
+    },
+    {
+      "id": 88882,
+      "name": "88882",
+      "productTypeID": 78421,
+      "productQuantity": 1,
+      "manufacturingTime": 226,
+      "materials": null
+    },
+    {
+      "id": 88883,
+      "name": "88883",
+      "productTypeID": 78422,
+      "productQuantity": 1,
+      "manufacturingTime": 1597,
+      "materials": null
+    },
+    {
+      "id": 88884,
+      "name": "88884",
+      "productTypeID": 79196,
+      "productQuantity": 1,
+      "manufacturingTime": 5,
+      "materials": null
+    },
+    {
+      "id": 88898,
+      "name": "88898",
+      "productTypeID": 83839,
+      "productQuantity": 1,
+      "manufacturingTime": 30,
+      "materials": null
+    },
+    {
+      "id": 88899,
+      "name": "88899",
+      "productTypeID": 78437,
+      "productQuantity": 600,
+      "manufacturingTime": 4116,
+      "materials": null
+    },
+    {
+      "id": 88900,
+      "name": "88900",
+      "productTypeID": 78515,
+      "productQuantity": 600,
+      "manufacturingTime": 2054,
+      "materials": null
+    },
+    {
+      "id": 88901,
+      "name": "88901",
+      "productTypeID": 78516,
+      "productQuantity": 600,
+      "manufacturingTime": 58,
+      "materials": null
+    },
+    {
+      "id": 88902,
+      "name": "88902",
+      "productTypeID": 84868,
+      "productQuantity": 600,
+      "manufacturingTime": 58,
+      "materials": null
+    },
+    {
+      "id": 88939,
+      "name": "88939",
+      "productTypeID": 88781,
+      "productQuantity": 1,
+      "manufacturingTime": 34,
+      "materials": null
+    },
+    {
+      "id": 88940,
+      "name": "88940",
+      "productTypeID": 88781,
+      "productQuantity": 1,
+      "manufacturingTime": 34,
+      "materials": null
+    },
+    {
+      "id": 88941,
+      "name": "88941",
+      "productTypeID": 88781,
+      "productQuantity": 1,
+      "manufacturingTime": 34,
+      "materials": null
+    },
+    {
+      "id": 88942,
+      "name": "88942",
+      "productTypeID": 88781,
+      "productQuantity": 1,
+      "manufacturingTime": 34,
+      "materials": null
+    },
+    {
+      "id": 88943,
+      "name": "88943",
+      "productTypeID": 81609,
+      "productQuantity": 1,
+      "manufacturingTime": 8200,
+      "materials": null
+    },
+    {
+      "id": 88944,
+      "name": "88944",
+      "productTypeID": 82426,
+      "productQuantity": 1,
+      "manufacturingTime": 8320,
+      "materials": null
+    },
+    {
+      "id": 88945,
+      "name": "88945",
+      "productTypeID": 81904,
+      "productQuantity": 1,
+      "manufacturingTime": 79200,
+      "materials": null
+    },
+    {
+      "id": 88946,
+      "name": "88946",
+      "productTypeID": 81808,
+      "productQuantity": 1,
+      "manufacturingTime": 151200,
+      "materials": null
+    },
+    {
+      "id": 88947,
+      "name": "88947",
+      "productTypeID": 82424,
+      "productQuantity": 1,
+      "manufacturingTime": 82800,
+      "materials": null
+    },
+    {
+      "id": 88948,
+      "name": "88948",
+      "productTypeID": 81611,
+      "productQuantity": 1,
+      "manufacturingTime": 324000,
+      "materials": null
+    },
+    {
+      "id": 88949,
+      "name": "88949",
+      "productTypeID": 83463,
+      "productQuantity": 1,
+      "manufacturingTime": 30,
+      "materials": null
+    },
+    {
+      "id": 88950,
+      "name": "88950",
+      "productTypeID": 77852,
+      "productQuantity": 1,
+      "manufacturingTime": 167,
+      "materials": null
+    },
+    {
+      "id": 88951,
+      "name": "88951",
+      "productTypeID": 83528,
+      "productQuantity": 1,
+      "manufacturingTime": 863,
+      "materials": null
+    },
+    {
+      "id": 88952,
+      "name": "88952",
+      "productTypeID": 83524,
+      "productQuantity": 1,
+      "manufacturingTime": 14863,
+      "materials": null
+    },
+    {
+      "id": 88953,
+      "name": "88953",
+      "productTypeID": 81974,
+      "productQuantity": 1,
+      "manufacturingTime": 156,
+      "materials": null
+    },
+    {
+      "id": 88954,
+      "name": "88954",
+      "productTypeID": 82128,
+      "productQuantity": 100,
+      "manufacturingTime": 132,
+      "materials": null
+    },
+    {
+      "id": 88955,
+      "name": "88955",
+      "productTypeID": 81846,
+      "productQuantity": 1,
+      "manufacturingTime": 39,
+      "materials": null
+    },
+    {
+      "id": 88956,
+      "name": "88956",
+      "productTypeID": 83497,
+      "productQuantity": 1,
+      "manufacturingTime": 209,
+      "materials": null
+    },
+    {
+      "id": 88957,
+      "name": "88957",
+      "productTypeID": 82647,
+      "productQuantity": 1,
+      "manufacturingTime": 155,
+      "materials": null
+    },
+    {
+      "id": 88958,
+      "name": "88958",
+      "productTypeID": 82650,
+      "productQuantity": 1,
+      "manufacturingTime": 150,
+      "materials": null
+    },
+    {
+      "id": 88959,
+      "name": "88959",
+      "productTypeID": 82652,
+      "productQuantity": 1,
+      "manufacturingTime": 207,
+      "materials": null
+    },
+    {
+      "id": 88983,
+      "name": "88983",
+      "productTypeID": 81656,
+      "productQuantity": 1,
+      "manufacturingTime": 137,
+      "materials": null
+    },
+    {
+      "id": 88984,
+      "name": "88984",
+      "productTypeID": 82090,
+      "productQuantity": 1,
+      "manufacturingTime": 301,
+      "materials": null
+    },
+    {
+      "id": 88985,
+      "name": "88985",
+      "productTypeID": 82091,
+      "productQuantity": 1,
+      "manufacturingTime": 620,
+      "materials": null
+    },
+    {
+      "id": 88986,
+      "name": "88986",
+      "productTypeID": 81972,
+      "productQuantity": 1,
+      "manufacturingTime": 115,
+      "materials": null
+    },
+    {
+      "id": 88987,
+      "name": "88987",
+      "productTypeID": 82088,
+      "productQuantity": 1,
+      "manufacturingTime": 249,
+      "materials": null
+    },
+    {
+      "id": 88988,
+      "name": "88988",
+      "productTypeID": 82089,
+      "productQuantity": 1,
+      "manufacturingTime": 505,
+      "materials": null
+    },
+    {
+      "id": 88989,
+      "name": "88989",
+      "productTypeID": 82084,
+      "productQuantity": 1,
+      "manufacturingTime": 276,
+      "materials": null
+    },
+    {
+      "id": 88990,
+      "name": "88990",
+      "productTypeID": 82085,
+      "productQuantity": 1,
+      "manufacturingTime": 577,
+      "materials": null
+    },
+    {
+      "id": 88991,
+      "name": "88991",
+      "productTypeID": 82032,
+      "productQuantity": 1,
+      "manufacturingTime": 132,
+      "materials": null
+    },
+    {
+      "id": 88992,
+      "name": "88992",
+      "productTypeID": 82086,
+      "productQuantity": 1,
+      "manufacturingTime": 283,
+      "materials": null
+    },
+    {
+      "id": 88993,
+      "name": "88993",
+      "productTypeID": 82087,
+      "productQuantity": 1,
+      "manufacturingTime": 597,
+      "materials": null
+    },
+    {
+      "id": 88994,
+      "name": "88994",
+      "productTypeID": 77484,
+      "productQuantity": 1,
+      "manufacturingTime": 750,
+      "materials": null
+    },
+    {
+      "id": 88995,
+      "name": "88995",
+      "productTypeID": 82681,
+      "productQuantity": 1,
+      "manufacturingTime": 97,
+      "materials": null
+    },
+    {
+      "id": 88996,
+      "name": "88996",
+      "productTypeID": 83536,
+      "productQuantity": 1,
+      "manufacturingTime": 194,
+      "materials": null
+    },
+    {
+      "id": 88997,
+      "name": "88997",
+      "productTypeID": 82651,
+      "productQuantity": 1,
+      "manufacturingTime": 111,
+      "materials": null
+    },
+    {
+      "id": 88998,
+      "name": "88998",
+      "productTypeID": 83437,
+      "productQuantity": 1,
+      "manufacturingTime": 222,
+      "materials": null
+    },
+    {
+      "id": 88999,
+      "name": "88999",
+      "productTypeID": 83441,
+      "productQuantity": 1,
+      "manufacturingTime": 97,
+      "materials": null
+    },
+    {
+      "id": 89000,
+      "name": "89000",
+      "productTypeID": 83442,
+      "productQuantity": 1,
+      "manufacturingTime": 194,
+      "materials": null
+    },
+    {
+      "id": 89001,
+      "name": "89001",
+      "productTypeID": 82410,
+      "productQuantity": 1,
+      "manufacturingTime": 222,
+      "materials": null
+    },
+    {
+      "id": 89002,
+      "name": "89002",
+      "productTypeID": 82411,
+      "productQuantity": 1,
+      "manufacturingTime": 248,
+      "materials": null
+    },
+    {
+      "id": 89003,
+      "name": "89003",
+      "productTypeID": 82412,
+      "productQuantity": 1,
+      "manufacturingTime": 222,
+      "materials": null
+    },
+    {
+      "id": 89004,
+      "name": "89004",
+      "productTypeID": 82413,
+      "productQuantity": 1,
+      "manufacturingTime": 222,
+      "materials": null
+    },
+    {
+      "id": 89005,
+      "name": "89005",
+      "productTypeID": 83613,
+      "productQuantity": 1,
+      "manufacturingTime": 181,
+      "materials": null
+    },
+    {
+      "id": 89006,
+      "name": "89006",
+      "productTypeID": 83614,
+      "productQuantity": 1,
+      "manufacturingTime": 405,
+      "materials": null
+    },
+    {
+      "id": 89007,
+      "name": "89007",
+      "productTypeID": 83615,
+      "productQuantity": 1,
+      "manufacturingTime": 916,
+      "materials": null
+    },
+    {
+      "id": 89008,
+      "name": "89008",
+      "productTypeID": 83618,
+      "productQuantity": 1,
+      "manufacturingTime": 159,
+      "materials": null
+    },
+    {
+      "id": 89009,
+      "name": "89009",
+      "productTypeID": 83619,
+      "productQuantity": 1,
+      "manufacturingTime": 362,
+      "materials": null
+    },
+    {
+      "id": 89010,
+      "name": "89010",
+      "productTypeID": 83620,
+      "productQuantity": 1,
+      "manufacturingTime": 835,
+      "materials": null
+    },
+    {
+      "id": 89011,
+      "name": "89011",
+      "productTypeID": 83623,
+      "productQuantity": 1,
+      "manufacturingTime": 159,
+      "materials": null
+    },
+    {
+      "id": 89012,
+      "name": "89012",
+      "productTypeID": 83624,
+      "productQuantity": 1,
+      "manufacturingTime": 350,
+      "materials": null
+    },
+    {
+      "id": 89013,
+      "name": "89013",
+      "productTypeID": 83625,
+      "productQuantity": 1,
+      "manufacturingTime": 796,
+      "materials": null
+    },
+    {
+      "id": 89014,
+      "name": "89014",
+      "productTypeID": 83628,
+      "productQuantity": 1,
+      "manufacturingTime": 181,
+      "materials": null
+    },
+    {
+      "id": 89015,
+      "name": "89015",
+      "productTypeID": 83629,
+      "productQuantity": 1,
+      "manufacturingTime": 405,
+      "materials": null
+    },
+    {
+      "id": 89016,
+      "name": "89016",
+      "productTypeID": 83630,
+      "productQuantity": 1,
+      "manufacturingTime": 923,
+      "materials": null
+    },
+    {
+      "id": 89017,
+      "name": "89017",
+      "productTypeID": 82682,
+      "productQuantity": 1,
+      "manufacturingTime": 181,
+      "materials": null
+    },
+    {
+      "id": 89018,
+      "name": "89018",
+      "productTypeID": 83516,
+      "productQuantity": 1,
+      "manufacturingTime": 371,
+      "materials": null
+    },
+    {
+      "id": 89019,
+      "name": "89019",
+      "productTypeID": 83517,
+      "productQuantity": 1,
+      "manufacturingTime": 777,
+      "materials": null
+    },
+    {
+      "id": 89020,
+      "name": "89020",
+      "productTypeID": 83518,
+      "productQuantity": 1,
+      "manufacturingTime": 1585,
+      "materials": null
+    },
+    {
+      "id": 89021,
+      "name": "89021",
+      "productTypeID": 83519,
+      "productQuantity": 1,
+      "manufacturingTime": 3274,
+      "materials": null
+    },
+    {
+      "id": 89022,
+      "name": "89022",
+      "productTypeID": 82683,
+      "productQuantity": 1,
+      "manufacturingTime": 178,
+      "materials": null
+    },
+    {
+      "id": 89023,
+      "name": "89023",
+      "productTypeID": 83520,
+      "productQuantity": 1,
+      "manufacturingTime": 366,
+      "materials": null
+    },
+    {
+      "id": 89024,
+      "name": "89024",
+      "productTypeID": 83521,
+      "productQuantity": 1,
+      "manufacturingTime": 760,
+      "materials": null
+    },
+    {
+      "id": 89025,
+      "name": "89025",
+      "productTypeID": 83522,
+      "productQuantity": 1,
+      "manufacturingTime": 1553,
+      "materials": null
+    },
+    {
+      "id": 89026,
+      "name": "89026",
+      "productTypeID": 83523,
+      "productQuantity": 1,
+      "manufacturingTime": 3192,
+      "materials": null
+    },
+    {
+      "id": 89027,
+      "name": "89027",
+      "productTypeID": 83498,
+      "productQuantity": 1,
+      "manufacturingTime": 469,
+      "materials": null
+    },
+    {
+      "id": 89028,
+      "name": "89028",
+      "productTypeID": 83499,
+      "productQuantity": 1,
+      "manufacturingTime": 1054,
+      "materials": null
+    },
+    {
+      "id": 89029,
+      "name": "89029",
+      "productTypeID": 83500,
+      "productQuantity": 1,
+      "manufacturingTime": 2339,
+      "materials": null
+    },
+    {
+      "id": 89030,
+      "name": "89030",
+      "productTypeID": 83501,
+      "productQuantity": 1,
+      "manufacturingTime": 5144,
+      "materials": null
+    },
+    {
+      "id": 89031,
+      "name": "89031",
+      "productTypeID": 83448,
+      "productQuantity": 1,
+      "manufacturingTime": 505,
+      "materials": null
+    },
+    {
+      "id": 89032,
+      "name": "89032",
+      "productTypeID": 82653,
+      "productQuantity": 1,
+      "manufacturingTime": 207,
+      "materials": null
+    },
+    {
+      "id": 89033,
+      "name": "89033",
+      "productTypeID": 83450,
+      "productQuantity": 1,
+      "manufacturingTime": 505,
+      "materials": null
+    },
+    {
+      "id": 89034,
+      "name": "89034",
+      "productTypeID": 82654,
+      "productQuantity": 1,
+      "manufacturingTime": 207,
+      "materials": null
+    },
+    {
+      "id": 89035,
+      "name": "89035",
+      "productTypeID": 83456,
+      "productQuantity": 1,
+      "manufacturingTime": 505,
+      "materials": null
+    },
+    {
+      "id": 89036,
+      "name": "89036",
+      "productTypeID": 82667,
+      "productQuantity": 1,
+      "manufacturingTime": 243,
+      "materials": null
+    },
+    {
+      "id": 89037,
+      "name": "89037",
+      "productTypeID": 83458,
+      "productQuantity": 1,
+      "manufacturingTime": 496,
+      "materials": null
+    },
+    {
+      "id": 89038,
+      "name": "89038",
+      "productTypeID": 83768,
+      "productQuantity": 1,
+      "manufacturingTime": 218,
+      "materials": null
+    },
+    {
+      "id": 89039,
+      "name": "89039",
+      "productTypeID": 83769,
+      "productQuantity": 1,
+      "manufacturingTime": 461,
+      "materials": null
+    },
+    {
+      "id": 89040,
+      "name": "89040",
+      "productTypeID": 83770,
+      "productQuantity": 1,
+      "manufacturingTime": 949,
+      "materials": null
+    },
+    {
+      "id": 89041,
+      "name": "89041",
+      "productTypeID": 83772,
+      "productQuantity": 1,
+      "manufacturingTime": 201,
+      "materials": null
+    },
+    {
+      "id": 89042,
+      "name": "89042",
+      "productTypeID": 83773,
+      "productQuantity": 1,
+      "manufacturingTime": 426,
+      "materials": null
+    },
+    {
+      "id": 89043,
+      "name": "89043",
+      "productTypeID": 83774,
+      "productQuantity": 1,
+      "manufacturingTime": 881,
+      "materials": null
+    },
+    {
+      "id": 89044,
+      "name": "89044",
+      "productTypeID": 83775,
+      "productQuantity": 1,
+      "manufacturingTime": 1811,
+      "materials": null
+    },
+    {
+      "id": 89045,
+      "name": "89045",
+      "productTypeID": 83777,
+      "productQuantity": 1,
+      "manufacturingTime": 201,
+      "materials": null
+    },
+    {
+      "id": 89046,
+      "name": "89046",
+      "productTypeID": 83778,
+      "productQuantity": 1,
+      "manufacturingTime": 415,
+      "materials": null
+    },
+    {
+      "id": 89047,
+      "name": "89047",
+      "productTypeID": 83779,
+      "productQuantity": 1,
+      "manufacturingTime": 863,
+      "materials": null
+    },
+    {
+      "id": 89048,
+      "name": "89048",
+      "productTypeID": 83782,
+      "productQuantity": 1,
+      "manufacturingTime": 184,
+      "materials": null
+    },
+    {
+      "id": 89049,
+      "name": "89049",
+      "productTypeID": 83783,
+      "productQuantity": 1,
+      "manufacturingTime": 387,
+      "materials": null
+    },
+    {
+      "id": 89050,
+      "name": "89050",
+      "productTypeID": 83784,
+      "productQuantity": 1,
+      "manufacturingTime": 804,
+      "materials": null
+    },
+    {
+      "id": 89051,
+      "name": "89051",
+      "productTypeID": 83421,
+      "productQuantity": 1,
+      "manufacturingTime": 357,
+      "materials": null
+    },
+    {
+      "id": 89052,
+      "name": "89052",
+      "productTypeID": 82648,
+      "productQuantity": 1,
+      "manufacturingTime": 172,
+      "materials": null
+    },
+    {
+      "id": 89053,
+      "name": "89053",
+      "productTypeID": 83425,
+      "productQuantity": 1,
+      "manufacturingTime": 391,
+      "materials": null
+    },
+    {
+      "id": 89054,
+      "name": "89054",
+      "productTypeID": 82649,
+      "productQuantity": 1,
+      "manufacturingTime": 182,
+      "materials": null
+    },
+    {
+      "id": 89055,
+      "name": "89055",
+      "productTypeID": 83429,
+      "productQuantity": 1,
+      "manufacturingTime": 421,
+      "materials": null
+    },
+    {
+      "id": 89056,
+      "name": "89056",
+      "productTypeID": 83433,
+      "productQuantity": 1,
+      "manufacturingTime": 357,
+      "materials": null
+    },
+    {
+      "id": 89057,
+      "name": "89057",
+      "productTypeID": 77753,
+      "productQuantity": 1,
+      "manufacturingTime": 89,
+      "materials": null
+    },
+    {
+      "id": 89058,
+      "name": "89058",
+      "productTypeID": 78490,
+      "productQuantity": 1,
+      "manufacturingTime": 825,
+      "materials": null
+    },
+    {
+      "id": 89059,
+      "name": "89059",
+      "productTypeID": 78511,
+      "productQuantity": 1,
+      "manufacturingTime": 413,
+      "materials": null
+    },
+    {
+      "id": 89060,
+      "name": "89060",
+      "productTypeID": 78506,
+      "productQuantity": 1,
+      "manufacturingTime": 207,
+      "materials": null
+    },
+    {
+      "id": 89081,
+      "name": "AC Gyrojet Ammo 2 (S) Blueprint",
+      "productTypeID": 82126,
+      "productQuantity": 100,
+      "manufacturingTime": 264,
+      "materials": null
+    },
+    {
+      "id": 89082,
+      "name": "89082",
+      "productTypeID": 82127,
+      "productQuantity": 100,
+      "manufacturingTime": 527,
+      "materials": null
+    },
+    {
+      "id": 89083,
+      "name": "89083",
+      "productTypeID": 82130,
+      "productQuantity": 100,
+      "manufacturingTime": 159,
+      "materials": null
+    },
+    {
+      "id": 89084,
+      "name": "89084",
+      "productTypeID": 82131,
+      "productQuantity": 100,
+      "manufacturingTime": 318,
+      "materials": null
+    },
+    {
+      "id": 89085,
+      "name": "89085",
+      "productTypeID": 82133,
+      "productQuantity": 100,
+      "manufacturingTime": 132,
+      "materials": null
+    },
+    {
+      "id": 89086,
+      "name": "89086",
+      "productTypeID": 81658,
+      "productQuantity": 100,
+      "manufacturingTime": 154,
+      "materials": null
+    },
+    {
+      "id": 89090,
+      "name": "89090",
+      "productTypeID": 89089,
+      "productQuantity": 1,
+      "manufacturingTime": 120,
+      "materials": null
+    },
+    {
+      "id": 89092,
+      "name": "89092",
+      "productTypeID": 88886,
+      "productQuantity": 1,
+      "manufacturingTime": 197,
+      "materials": null
+    },
+    {
+      "id": 89093,
+      "name": "89093",
+      "productTypeID": 88889,
+      "productQuantity": 1,
+      "manufacturingTime": 452,
+      "materials": null
+    },
+    {
+      "id": 89094,
+      "name": "Cryogenic Ejector S Blueprint",
+      "productTypeID": 87599,
+      "productQuantity": 1,
+      "manufacturingTime": 904,
+      "materials": null
+    },
+    {
+      "id": 89113,
+      "name": "Compressed Coolant Blueprint",
+      "productTypeID": 88887,
+      "productQuantity": 10,
+      "manufacturingTime": 147,
+      "materials": null
+    },
+    {
+      "id": 89128,
+      "name": "Celerity CD03 Blueprint",
+      "productTypeID": 78508,
+      "productQuantity": 1,
+      "manufacturingTime": 4230,
+      "materials": null
+    }
+  ],
+  "meta": {
+    "limit": 1000,
+    "offset": 0,
+    "total": 201
+  }
+}
